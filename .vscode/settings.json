@@ -1,0 +1,7 @@
+{
+    "eslint.workingDirectories": [
+        "./",
+    ],
+    "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow",
+    "eslint.enable": false,
+}
